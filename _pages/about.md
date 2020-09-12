@@ -19,8 +19,6 @@ Education
 
 * Ph.D in Mathematics, [New Mexico State University](www.nmsu.edu), 2020
 * M.S. in Mathematics, [New Mexico State University](www.nmsu.edu), 2015
-* M.S. in Mathematics, [Northwest University](www.nwu.edu.cn), 2007
-* B.S. in Mathematics, [Northwest University](www.nwu.edu.cn), 2004
 
 Work experience
 ======
