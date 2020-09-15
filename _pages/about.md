@@ -22,7 +22,7 @@ Education
 * M.S. in Mathematics, [Northwest University](www.nwu.edu.cn), 2007
 * B.S. in Mathematics, [Northwest University](www.nwu.edu.cn), 2004
 
-Work experience
+Professional experience
 ======
 * August 2020 - present: Assistant Professor at [UTC](www.utc.edu) 
 * January 2014 - May 2020: Teaching Assistant at [ New Mexico State University](www.nmsu.edu)
