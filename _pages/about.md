@@ -33,7 +33,7 @@ Professional experience
   
 Curriculum vitae
 ======
-[CV](https://ziwei-utc.github.io/files/ziweiCV.pdf)
+[CV](https://www.overleaf.com/read/vmypjsfhddmt)
 
 
 This site is new and still under construction, more pages will come out soon. Please check it back if you are willing to know more about me.
