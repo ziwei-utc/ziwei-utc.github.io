@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of statistics in  [Department of Mathematics] (https://new.utc.edu/directory/djd955-mathematics-ziwei-ma/djd955) at  [University of Tennessee at Chattanooga (UTC)](https://www.utc.edu/) starting from August 2020. My research involves in mathematical and applied statistics and machine learning.
+I am an assistant professor of statistics in  [Department of Mathematics](https://new.utc.edu/directory/djd955-mathematics-ziwei-ma/djd955) at  [University of Tennessee at Chattanooga (UTC)](https://www.utc.edu/) starting from August 2020. My research involves in mathematical and applied statistics and machine learning.
 
 Previously, I earned my Ph.D. in Mathematics (specialized in Statistics) from  [New Mexico State University](https://www.nmsu.edu/) at [Las Cruces](https://www.las-cruces.org/), NM, where I was fortunate to be advised by Professor  [Tonghui Wang](https://math.nmsu.edu/people/facultydirectory/tonghui-tony-wang.html). 
 
