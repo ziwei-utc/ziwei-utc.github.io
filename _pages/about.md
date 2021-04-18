@@ -10,7 +10,7 @@ redirect_from:
 
 I am an assistant professor at  [University of Tennessee at Chattanooga (UTC)](https://www.utc.edu/) starting from August 2020. My research involves in mathematical and applied statistics and machine learning.
 
-Previously, I earned my Ph.D. in Mathematics (specialized in Statistics) from  [New Mexico State University](https://www.nmsu.edu/) at [Las Cruces](https://www.las-cruces.org/), NM, where I was fortunate to be advised by Professor  [Tonghui Wang](https://math.nmsu.edu/tenure-track-faculty/name/tonghui-tony-wang/). 
+Previously, I earned my Ph.D. in Mathematics (specialized in Statistics) from  [New Mexico State University](https://www.nmsu.edu/) at [Las Cruces](https://www.las-cruces.org/), NM, where I was fortunate to be advised by Professor  [Tonghui Wang](https://math.nmsu.edu/people/facultydirectory/tonghui-tony-wang.html). 
 
 
 Education
