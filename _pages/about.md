@@ -36,6 +36,6 @@ Curriculum vitae
 [CV](https://github.com/ziwei-utc/ziwei-utc.github.io/raw/master/files/Ziwei_Ma_CV__Fall_2021_corrected_.pdf)
 
 
-This site is new and still under construction, more pages will come out soon. Please check it back if you are willing to know more about me.
+
 
 
